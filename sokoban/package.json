@@ -1,0 +1,15 @@
+{
+  "name": "sokoban",
+  "private": true,
+  "description": "The source code to sokoban",
+  "version": "1.0.0",
+  "author": "Xavier Dutreilh <xavier@dutreilh.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,js,json,md}\""
+  }
+}
